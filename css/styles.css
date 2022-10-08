@@ -78,6 +78,7 @@ a:hover {
   margin: 100px 0;
 }
 
+
 #pic {
   width: 200px;
   height: 200px;
@@ -147,6 +148,21 @@ a:hover {
 }
 
 /* PROJECTS */
+.project1 {
+  display: flex; 
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.project1 img {
+  width: 460px;
+  height: 400px;
+}
+
+figure {
+  color: #66BFBF;
+}
+
 .myGallery {
   display: flex; 
   justify-content: center;
